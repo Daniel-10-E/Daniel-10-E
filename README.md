@@ -3,7 +3,11 @@
 Second-year B.Sc. student in Software Engineering at SCE.
 
 ## What I'm interested in
-Backend development
+Software architect
+## What I'm learning now
+- Python
+- Understanding system
+- Ai Agents
 
 
 ## Projects
