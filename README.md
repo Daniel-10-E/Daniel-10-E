@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Daniel
 
-<!--
-**Daniel-10-E/Daniel-10-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year B.Sc. student in Software Engineering at SCE.
 
-Here are some ideas to get you started:
+## What I'm interested in
+Backend development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Projects
+Coming soon: my course projects from this year.
+
+## Contact
+Linkedin: https://www.linkedin.com/in/daniel-edri-4a8384355
